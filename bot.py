@@ -1,8 +1,8 @@
 import telebot
 from telebot.types import ReplyKeyboardMarkup, KeyboardButton, InlineKeyboardMarkup, InlineKeyboardButton
 
-TOKEN = '7310717326:AAEGBsEUUei6IvQoBpv7EzCNOyuIXgLbDcc'
-CHAT_ID = '@opulentboy'  # Kanal yoki guruh nomi yoki ID-si
+TOKEN = 'TOKEN'
+CHAT_ID = '@'  # Kanal yoki guruh nomi yoki ID-si
 bot = telebot.TeleBot(TOKEN)
 
 user_data = {}
